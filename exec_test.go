@@ -3,7 +3,7 @@ package gexec
 import (
 	"bytes"
 	"fmt"
-	_ "github.com/davecgh/go-spew/spew"
+	_ "github.com/dvln/go-spew/spew"
 	"os/exec"
 	"path/filepath"
 	"reflect"
